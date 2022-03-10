@@ -1,6 +1,5 @@
 ### Hi, i´m Lucas 👋🏽👨🏾‍💻
 <!--
-![me](https://images.alphacoders.com/246/thumb-1920-246523.jpg)
 **Lucas-Andres-GF/Lucas-Andres-GF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
