@@ -1,5 +1,7 @@
 ### Hi, i´m Lucas 👋🏽👨🏾‍💻
 <!--
+![795-7958473_smirnoff-es-un-tipo-de-vodka-de-origen](https://user-images.githubusercontent.com/91075804/157728983-44855b9b-27fc-4498-9762-16e66206482a.png)
+
 **Lucas-Andres-GF/Lucas-Andres-GF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
