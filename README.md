@@ -1,4 +1,4 @@
-# Hello, I´m Lucas
+# Hello, I´m Lucas 👋🏽👨🏾‍💻
 
 ## **Contact me** 
 
