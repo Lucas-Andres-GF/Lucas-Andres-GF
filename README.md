@@ -1,6 +1,6 @@
-<h1 align= "center">Hi there 👋🏽👨🏾‍💻</h1> 
+<h1 align= "center">Hi there 👋🏽</h1> 
 
-## *My name is Lucas and I'am a student of computer science.*
+## *My name is Lucas and I'am a student of computer science.* 👨🏾‍💻
 
 ### *Contact me*
 
